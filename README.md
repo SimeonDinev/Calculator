@@ -20,11 +20,11 @@ To get a local copy up and running, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/calculator-app.git
+   git clone https://github.com/SimeonDinev/Calculator.git
    ```
 2. **Navigate to the project directory**:
    ```bash
-   cd calculator-app
+   cd Calculator
    ```
 3. **Install dependencies**:
    ```bash
