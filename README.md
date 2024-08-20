@@ -38,5 +38,4 @@ To get a local copy up and running, follow these steps:
    npm run dev
    ```
    
-<img src="![Екранна снимка (2)](https://github.com/user-attachments/assets/90018ceb-fd29-47e7-bc7f-26f276863961)
-" alt="Project Logo" style="width: 300px; height: auto;"/>
+<img src="![Екранна снимка (2)](https://github.com/user-attachments/assets/90018ceb-fd29-47e7-bc7f-26f276863961)" alt="Project Logo" style="width: 300px; height: auto;"/>
