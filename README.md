@@ -38,5 +38,5 @@ To get a local copy up and running, follow these steps:
    npm run dev
    ```
    
-<img src="C:\Users\USER\Pictures\Screenshots\Екранна снимка (2).png" alt="My Calculator" width="300"/>
+<img src="C:\Users\USER\Desktop\Sirma Academy\React\Calculator\Calculator\Екранна снимка (2).png" alt="My Calculator" width="300"/>
 
