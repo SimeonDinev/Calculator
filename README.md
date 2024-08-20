@@ -3,12 +3,14 @@
 A simple web-based calculator application built with React, providing basic arithmetic operations with a user-friendly interface.
 
 ## Key Features
+
 - **Basic Operations**: Supports addition, subtraction, multiplication, and division.
 - **Responsive Design**: Optimized for both desktop and mobile devices.
 - **Real-time Calculations**: Instant feedback as you type.
 - **Clear Button**: Easily reset the calculator to start a new calculation.
 
 ## Technologies Used
+
 - **React**: For building the user interface.
 - **Vite**: For fast build and development server.
 - **JavaScript**: Logic for performing calculations.
@@ -16,6 +18,7 @@ A simple web-based calculator application built with React, providing basic arit
 - **CSS3**: Styling for a clean and modern look.
 
 ## Getting Started
+
 To get a local copy up and running, follow these steps:
 
 1. **Clone the repository**:
@@ -34,3 +37,4 @@ To get a local copy up and running, follow these steps:
    ```bash
    npm run dev
    ```
+   ![alt text](<Екранна снимка (2).png>)
