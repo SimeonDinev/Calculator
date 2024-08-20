@@ -38,4 +38,4 @@ To get a local copy up and running, follow these steps:
    npm run dev
    ```
    
-<img src="![alt text](<Екранна снимка (2).png>)" alt="Project Logo" style="width: 300px; height: auto;"/>
+<img src="C:\Users\USER\Pictures\Screenshots\Екранна снимка (2).png" alt="Project Logo" style="width: 300px; height: auto;"/>
