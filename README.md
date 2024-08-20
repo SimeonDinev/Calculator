@@ -37,4 +37,5 @@ To get a local copy up and running, follow these steps:
    ```bash
    npm run dev
    ```
-   ![alt text](<Екранна снимка (2).png>)
+   
+<img src="![alt text](<Екранна снимка (2).png>)" alt="Project Logo" style="width: 300px; height: auto;"/>
