@@ -1,0 +1,22 @@
+.buttons {
+  height: 300px;
+  margin: 20px;
+  border-radius: 5px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 7px;
+}
+.buttons button {
+  background-color: #ededee;
+  color: #303030;
+  border: none;
+  border-radius: 3px;
+  font-size: larger;
+}
+.buttons button:hover {
+  background-color: #dbdbdb;
+  cursor: pointer;
+}
+.buttons button:active {
+  background-color: #c0c0c0;
+}
