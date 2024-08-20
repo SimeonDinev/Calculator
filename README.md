@@ -38,5 +38,5 @@ To get a local copy up and running, follow these steps:
    npm run dev
    ```
    
-![Екранна снимка (2)](https://github.com/user-attachments/assets/45679365-a877-4049-82a2-c6626785b8df)
+<img src="C:\Users\USER\Pictures\Screenshots\Екранна снимка (2).png" alt="My Calculator" width="300"/>
 
